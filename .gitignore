@@ -1,0 +1,20 @@
+# Project exclude paths
+/.gradle/
+/Classes/Data classes/build/
+/Classes/Extension functions/build/
+/Classes/Rename on import/build/
+/Classes/Sealed classes/build/
+/Classes/Smart casts/build/
+/Introduction/Default arguments/build/
+/Introduction/Hello, world!/build/
+/Introduction/Lambdas/build/
+/Introduction/Named arguments/build/
+/Introduction/Nothing type/build/
+/Introduction/Nullable types/build/
+/Introduction/String templates/build/
+/Introduction/Triple-quoted strings/build/
+/Introduction/Triple-quoted strings/out/
+/Introduction/Triple-quoted strings/out/production/classes/
+/util/build/
+/util/out/
+/util/out/production/classes/
